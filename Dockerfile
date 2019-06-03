@@ -1,4 +1,4 @@
-FROM tomcat:8.5-alpine
+FROM tomcat:8.5
 
 RUN apt-get update && apt-get -y upgrade
 
